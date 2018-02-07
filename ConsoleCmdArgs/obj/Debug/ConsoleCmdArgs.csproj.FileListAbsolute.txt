@@ -1,0 +1,7 @@
+C:\Users\RAVI\Documents\Basic\ConsoleCmdArgs\bin\Debug\ConsoleCmdArgs.exe.config
+C:\Users\RAVI\Documents\Basic\ConsoleCmdArgs\bin\Debug\ConsoleCmdArgs.exe
+C:\Users\RAVI\Documents\Basic\ConsoleCmdArgs\bin\Debug\ConsoleCmdArgs.pdb
+C:\Users\RAVI\Documents\Basic\ConsoleCmdArgs\obj\Debug\ConsoleCmdArgs.csprojResolveAssemblyReference.cache
+C:\Users\RAVI\Documents\Basic\ConsoleCmdArgs\obj\Debug\ConsoleCmdArgs.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Documents\Basic\ConsoleCmdArgs\obj\Debug\ConsoleCmdArgs.exe
+C:\Users\RAVI\Documents\Basic\ConsoleCmdArgs\obj\Debug\ConsoleCmdArgs.pdb
