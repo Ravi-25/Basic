@@ -1,0 +1,7 @@
+C:\Users\RAVI\Documents\Basic\ConsoleUnicodeApp\obj\Debug\ConsoleUnicodeApp.csprojResolveAssemblyReference.cache
+C:\Users\RAVI\Documents\Basic\ConsoleUnicodeApp\obj\Debug\ConsoleUnicodeApp.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Documents\Basic\ConsoleUnicodeApp\bin\Debug\ConsoleUnicodeApp.exe.config
+C:\Users\RAVI\Documents\Basic\ConsoleUnicodeApp\bin\Debug\ConsoleUnicodeApp.exe
+C:\Users\RAVI\Documents\Basic\ConsoleUnicodeApp\bin\Debug\ConsoleUnicodeApp.pdb
+C:\Users\RAVI\Documents\Basic\ConsoleUnicodeApp\obj\Debug\ConsoleUnicodeApp.exe
+C:\Users\RAVI\Documents\Basic\ConsoleUnicodeApp\obj\Debug\ConsoleUnicodeApp.pdb
