@@ -1,0 +1,7 @@
+C:\Users\RAVI\Documents\Basic\ConsoleParsingApp\bin\Debug\ConsoleParsingApp.exe.config
+C:\Users\RAVI\Documents\Basic\ConsoleParsingApp\bin\Debug\ConsoleParsingApp.exe
+C:\Users\RAVI\Documents\Basic\ConsoleParsingApp\bin\Debug\ConsoleParsingApp.pdb
+C:\Users\RAVI\Documents\Basic\ConsoleParsingApp\obj\Debug\ConsoleParsingApp.csprojResolveAssemblyReference.cache
+C:\Users\RAVI\Documents\Basic\ConsoleParsingApp\obj\Debug\ConsoleParsingApp.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Documents\Basic\ConsoleParsingApp\obj\Debug\ConsoleParsingApp.exe
+C:\Users\RAVI\Documents\Basic\ConsoleParsingApp\obj\Debug\ConsoleParsingApp.pdb
