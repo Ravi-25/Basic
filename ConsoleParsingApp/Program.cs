@@ -41,4 +41,29 @@ namespace ConsoleParsingApp
 
         }
     }
-}
+    class Enumer
+    {
+        enum WeekDay
+        {
+            sunday = 0, monday, tuesday, wednesday, thursday, friday, saturday
+        }
+        static void Main()
+        {
+            Console.WriteLine("Enter Day of the week");
+            int i = int.Parse(Console.ReadLine());
+            string day = Enum.GetName(typeof(WeekDay), i);
+            Console.WriteLine(day);
+
+            int[] n = (int[])Enum.GetValues(typeof(WeekDay));
+            foreach (int x in n)
+                Console.WriteLine(x);
+
+            string[] values = Enum.GetNames(typeof(WeekDay));
+            foreach (string s in values)
+                Console.WriteLine(s);
+        }
+            
+    }
+
+    }
+
