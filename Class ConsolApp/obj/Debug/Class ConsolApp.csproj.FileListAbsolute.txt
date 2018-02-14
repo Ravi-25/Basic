@@ -1,0 +1,7 @@
+C:\Users\RAVI\Documents\Basic\Class ConsolApp\bin\Debug\Class ConsolApp.exe.config
+C:\Users\RAVI\Documents\Basic\Class ConsolApp\bin\Debug\Class ConsolApp.exe
+C:\Users\RAVI\Documents\Basic\Class ConsolApp\bin\Debug\Class ConsolApp.pdb
+C:\Users\RAVI\Documents\Basic\Class ConsolApp\obj\Debug\Class ConsolApp.csprojResolveAssemblyReference.cache
+C:\Users\RAVI\Documents\Basic\Class ConsolApp\obj\Debug\Class ConsolApp.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Documents\Basic\Class ConsolApp\obj\Debug\Class ConsolApp.exe
+C:\Users\RAVI\Documents\Basic\Class ConsolApp\obj\Debug\Class ConsolApp.pdb
