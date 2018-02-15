@@ -1,0 +1,7 @@
+C:\Users\RAVI\Documents\Basic\StaticConsoleApp\bin\Debug\StaticConsoleApp.exe.config
+C:\Users\RAVI\Documents\Basic\StaticConsoleApp\bin\Debug\StaticConsoleApp.exe
+C:\Users\RAVI\Documents\Basic\StaticConsoleApp\bin\Debug\StaticConsoleApp.pdb
+C:\Users\RAVI\Documents\Basic\StaticConsoleApp\obj\Debug\StaticConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\RAVI\Documents\Basic\StaticConsoleApp\obj\Debug\StaticConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Documents\Basic\StaticConsoleApp\obj\Debug\StaticConsoleApp.exe
+C:\Users\RAVI\Documents\Basic\StaticConsoleApp\obj\Debug\StaticConsoleApp.pdb
