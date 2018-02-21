@@ -1,0 +1,7 @@
+C:\Users\RAVI\Documents\Basic\InterfaceConsoleApp\bin\Debug\InterfaceConsoleApp.exe.config
+C:\Users\RAVI\Documents\Basic\InterfaceConsoleApp\bin\Debug\InterfaceConsoleApp.exe
+C:\Users\RAVI\Documents\Basic\InterfaceConsoleApp\bin\Debug\InterfaceConsoleApp.pdb
+C:\Users\RAVI\Documents\Basic\InterfaceConsoleApp\obj\Debug\InterfaceConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\RAVI\Documents\Basic\InterfaceConsoleApp\obj\Debug\InterfaceConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Documents\Basic\InterfaceConsoleApp\obj\Debug\InterfaceConsoleApp.exe
+C:\Users\RAVI\Documents\Basic\InterfaceConsoleApp\obj\Debug\InterfaceConsoleApp.pdb

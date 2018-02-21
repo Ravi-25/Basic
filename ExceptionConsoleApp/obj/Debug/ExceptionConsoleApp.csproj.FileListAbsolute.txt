@@ -1,0 +1,7 @@
+C:\Users\RAVI\Documents\Basic\ExceptionConsoleApp\bin\Debug\ExceptionConsoleApp.exe.config
+C:\Users\RAVI\Documents\Basic\ExceptionConsoleApp\bin\Debug\ExceptionConsoleApp.exe
+C:\Users\RAVI\Documents\Basic\ExceptionConsoleApp\bin\Debug\ExceptionConsoleApp.pdb
+C:\Users\RAVI\Documents\Basic\ExceptionConsoleApp\obj\Debug\ExceptionConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\RAVI\Documents\Basic\ExceptionConsoleApp\obj\Debug\ExceptionConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Documents\Basic\ExceptionConsoleApp\obj\Debug\ExceptionConsoleApp.exe
+C:\Users\RAVI\Documents\Basic\ExceptionConsoleApp\obj\Debug\ExceptionConsoleApp.pdb

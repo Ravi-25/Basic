@@ -4,31 +4,31 @@ using System.Text;
 
 class student
 {
-    public int _ID;
-    public string _Name;
-    public int _Marks = 99;
-    public string _email { get; set; }
+    private int _iD;
+    private string _name;
+    private int _marks = 99;
+    public string Email { get; set; }
 
     public int Marks
     {
-        get { return this.Marks; }
+        get { return this._marks; }
     }
     public int ID
     {
         set
         {
-            if (this._ID <= 0)
+            if (value<=0)
             {
                 Console.WriteLine("ID cannot be a non positive number");
             }
             else
             {
-                this._ID = 10;
+                this._iD = value;
             }
         }
         get
         {
-            return this._ID;
+            return this._iD;
         }
     }
     public string Name
@@ -39,10 +39,14 @@ class student
             {
                 global::System.Console.WriteLine("Name cannot be empty od null");
             }
+            else
+            {
+                this._name = value;
+            }
         }
         get
         {
-            return string.IsNullOrEmpty(this._Name) ? "NO NAME" : this.Name;
+            return string.IsNullOrEmpty(this._name) ? "NO NAME" : this._name;
         }
     }
 }
@@ -52,12 +56,18 @@ class Program
     static void Main(string[] args)
     {
         student s1 = new student();
-        s1._ID = 101;
-        s1._Name = "Ravi";
-        s1._email = "Ravi@standav.com";
-        Console.WriteLine("Name:{0}",s1._Name);
+        s1.ID = 101;
+        s1.Name = "Ravi";
+        s1.Email = "Ravi@standav.com";
+        Console.WriteLine("Name:{0}",s1.Name);
         Console.WriteLine("ID:{0}", s1.ID);
-        Console.WriteLine("Email:{0}", s1._email);
-        Console.WriteLine("Marks:{0}", s1._Marks);
+        Console.WriteLine("Email:{0}", s1.Email);
+        Console.WriteLine("Marks:{0}", s1.Marks);
+        student s2 = new student { ID = 102, Name = "Ravi2", Email = "Ravi2@gmail.com" };
+        Console.WriteLine("Name:{0}", s2.Name);
+        Console.WriteLine("ID:{0}", s2.ID);
+        Console.WriteLine("Email:{0}", s2.Email);
+        Console.WriteLine("Marks:{0}", s2.Marks);
+
     }
 }

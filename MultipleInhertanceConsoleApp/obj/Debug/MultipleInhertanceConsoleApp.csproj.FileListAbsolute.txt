@@ -1,0 +1,7 @@
+C:\Users\RAVI\Documents\Basic\MultipleInhertanceConsoleApp\bin\Debug\MultipleInhertanceConsoleApp.exe.config
+C:\Users\RAVI\Documents\Basic\MultipleInhertanceConsoleApp\bin\Debug\MultipleInhertanceConsoleApp.exe
+C:\Users\RAVI\Documents\Basic\MultipleInhertanceConsoleApp\bin\Debug\MultipleInhertanceConsoleApp.pdb
+C:\Users\RAVI\Documents\Basic\MultipleInhertanceConsoleApp\obj\Debug\MultipleInhertanceConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\RAVI\Documents\Basic\MultipleInhertanceConsoleApp\obj\Debug\MultipleInhertanceConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Documents\Basic\MultipleInhertanceConsoleApp\obj\Debug\MultipleInhertanceConsoleApp.exe
+C:\Users\RAVI\Documents\Basic\MultipleInhertanceConsoleApp\obj\Debug\MultipleInhertanceConsoleApp.pdb

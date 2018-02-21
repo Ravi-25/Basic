@@ -1,0 +1,6 @@
+C:\Users\RAVI\Documents\Basic\AbstractConsoleApp\bin\Debug\AbstractConsoleApp.exe.config
+C:\Users\RAVI\Documents\Basic\AbstractConsoleApp\bin\Debug\AbstractConsoleApp.exe
+C:\Users\RAVI\Documents\Basic\AbstractConsoleApp\bin\Debug\AbstractConsoleApp.pdb
+C:\Users\RAVI\Documents\Basic\AbstractConsoleApp\obj\Debug\AbstractConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Documents\Basic\AbstractConsoleApp\obj\Debug\AbstractConsoleApp.exe
+C:\Users\RAVI\Documents\Basic\AbstractConsoleApp\obj\Debug\AbstractConsoleApp.pdb
