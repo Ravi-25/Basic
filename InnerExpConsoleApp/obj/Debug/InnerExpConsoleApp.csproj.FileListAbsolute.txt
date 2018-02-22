@@ -1,0 +1,7 @@
+C:\Users\RAVI\Documents\Basic\InnerExpConsoleApp\bin\Debug\InnerExpConsoleApp.exe.config
+C:\Users\RAVI\Documents\Basic\InnerExpConsoleApp\bin\Debug\InnerExpConsoleApp.exe
+C:\Users\RAVI\Documents\Basic\InnerExpConsoleApp\bin\Debug\InnerExpConsoleApp.pdb
+C:\Users\RAVI\Documents\Basic\InnerExpConsoleApp\obj\Debug\InnerExpConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\RAVI\Documents\Basic\InnerExpConsoleApp\obj\Debug\InnerExpConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Documents\Basic\InnerExpConsoleApp\obj\Debug\InnerExpConsoleApp.exe
+C:\Users\RAVI\Documents\Basic\InnerExpConsoleApp\obj\Debug\InnerExpConsoleApp.pdb

@@ -1,0 +1,8 @@
+C:\Users\RAVI\Documents\Basic\AssemblyAccessConsoleApp\AssemblyTwo\obj\Debug\AssemblyTwo.csprojResolveAssemblyReference.cache
+C:\Users\RAVI\Documents\Basic\AssemblyAccessConsoleApp\AssemblyTwo\obj\Debug\AssemblyTwo.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Documents\Basic\AssemblyAccessConsoleApp\AssemblyTwo\bin\Debug\AssemblyTwo.dll
+C:\Users\RAVI\Documents\Basic\AssemblyAccessConsoleApp\AssemblyTwo\bin\Debug\AssemblyTwo.pdb
+C:\Users\RAVI\Documents\Basic\AssemblyAccessConsoleApp\AssemblyTwo\bin\Debug\AssemblyOne.dll
+C:\Users\RAVI\Documents\Basic\AssemblyAccessConsoleApp\AssemblyTwo\bin\Debug\AssemblyOne.pdb
+C:\Users\RAVI\Documents\Basic\AssemblyAccessConsoleApp\AssemblyTwo\obj\Debug\AssemblyTwo.dll
+C:\Users\RAVI\Documents\Basic\AssemblyAccessConsoleApp\AssemblyTwo\obj\Debug\AssemblyTwo.pdb

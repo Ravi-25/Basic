@@ -1,0 +1,6 @@
+C:\Users\RAVI\Documents\Basic\AssemblyOne\bin\Debug\AssemblyOne.dll
+C:\Users\RAVI\Documents\Basic\AssemblyOne\bin\Debug\AssemblyOne.pdb
+C:\Users\RAVI\Documents\Basic\AssemblyOne\obj\Debug\AssemblyOne.csprojResolveAssemblyReference.cache
+C:\Users\RAVI\Documents\Basic\AssemblyOne\obj\Debug\AssemblyOne.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Documents\Basic\AssemblyOne\obj\Debug\AssemblyOne.dll
+C:\Users\RAVI\Documents\Basic\AssemblyOne\obj\Debug\AssemblyOne.pdb
