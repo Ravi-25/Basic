@@ -1,0 +1,7 @@
+C:\Users\RAVI\Documents\Basic\ListConsoleApp\bin\Debug\ListConsoleApp.exe.config
+C:\Users\RAVI\Documents\Basic\ListConsoleApp\bin\Debug\ListConsoleApp.exe
+C:\Users\RAVI\Documents\Basic\ListConsoleApp\bin\Debug\ListConsoleApp.pdb
+C:\Users\RAVI\Documents\Basic\ListConsoleApp\obj\Debug\ListConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\RAVI\Documents\Basic\ListConsoleApp\obj\Debug\ListConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Documents\Basic\ListConsoleApp\obj\Debug\ListConsoleApp.exe
+C:\Users\RAVI\Documents\Basic\ListConsoleApp\obj\Debug\ListConsoleApp.pdb

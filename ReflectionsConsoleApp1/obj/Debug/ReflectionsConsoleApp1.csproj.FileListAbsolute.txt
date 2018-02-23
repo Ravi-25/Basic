@@ -1,0 +1,7 @@
+C:\Users\RAVI\Documents\Basic\ReflectionsConsoleApp1\bin\Debug\ReflectionsConsoleApp1.exe.config
+C:\Users\RAVI\Documents\Basic\ReflectionsConsoleApp1\bin\Debug\ReflectionsConsoleApp1.exe
+C:\Users\RAVI\Documents\Basic\ReflectionsConsoleApp1\bin\Debug\ReflectionsConsoleApp1.pdb
+C:\Users\RAVI\Documents\Basic\ReflectionsConsoleApp1\obj\Debug\ReflectionsConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\RAVI\Documents\Basic\ReflectionsConsoleApp1\obj\Debug\ReflectionsConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Documents\Basic\ReflectionsConsoleApp1\obj\Debug\ReflectionsConsoleApp1.exe
+C:\Users\RAVI\Documents\Basic\ReflectionsConsoleApp1\obj\Debug\ReflectionsConsoleApp1.pdb
