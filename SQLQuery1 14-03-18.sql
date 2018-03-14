@@ -28,3 +28,29 @@ alter table tblperson add constraint DF_tblPerson_GenderId default 3 for GenderI
 insert into tblperson(ID , Name , Email, GenderID) Values (8,'Happy','ha@h.com',NULL)
 
 insert into tblperson(ID , Name , Email) Values (9,'Khan','kakh.com')
+
+create table test1
+(
+ID int identity(1,1),
+value nvarchar(20)
+)
+
+create table test2
+(
+ID int identity(1,1),
+value nvarchar(20)
+)
+
+insert into test1 values('xxx');
+
+select SCOPE_IDENTITY();
+select @@IDENTITY;
+select IDENT_CURRENT('test2');
+
+create trigger trForInsert on test1 for insert as
+begin
+insert into test2 values('yyy')
+end
+
+select * from test1;
+select * from test2;
