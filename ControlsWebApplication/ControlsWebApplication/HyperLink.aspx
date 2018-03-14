@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
         <div>
             <br />
-            <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/CheckBox.aspx" Target="_top">Text Box</asp:HyperLink>
+            <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/TextBox.aspx" Target="_top">Text Box</asp:HyperLink>
             <br />
             <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/RadioButtons.aspx">Radio Button</asp:HyperLink>
             <br />
