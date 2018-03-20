@@ -1,0 +1,9 @@
+C:\Users\RAVI\Documents\Basic\FileUpload\FileUpload\bin\FileUpload.dll.config
+C:\Users\RAVI\Documents\Basic\FileUpload\FileUpload\bin\FileUpload.dll
+C:\Users\RAVI\Documents\Basic\FileUpload\FileUpload\bin\FileUpload.pdb
+C:\Users\RAVI\Documents\Basic\FileUpload\FileUpload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RAVI\Documents\Basic\FileUpload\FileUpload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RAVI\Documents\Basic\FileUpload\FileUpload\obj\Debug\FileUpload.csprojResolveAssemblyReference.cache
+C:\Users\RAVI\Documents\Basic\FileUpload\FileUpload\obj\Debug\FileUpload.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Documents\Basic\FileUpload\FileUpload\obj\Debug\FileUpload.dll
+C:\Users\RAVI\Documents\Basic\FileUpload\FileUpload\obj\Debug\FileUpload.pdb
