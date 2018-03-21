@@ -1,0 +1,9 @@
+C:\Users\RAVI\source\repos\PanelDynamic\PanelDynamic\bin\PanelDynamic.dll.config
+C:\Users\RAVI\source\repos\PanelDynamic\PanelDynamic\bin\PanelDynamic.dll
+C:\Users\RAVI\source\repos\PanelDynamic\PanelDynamic\bin\PanelDynamic.pdb
+C:\Users\RAVI\source\repos\PanelDynamic\PanelDynamic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RAVI\source\repos\PanelDynamic\PanelDynamic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RAVI\source\repos\PanelDynamic\PanelDynamic\obj\Debug\PanelDynamic.csprojResolveAssemblyReference.cache
+C:\Users\RAVI\source\repos\PanelDynamic\PanelDynamic\obj\Debug\PanelDynamic.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\source\repos\PanelDynamic\PanelDynamic\obj\Debug\PanelDynamic.dll
+C:\Users\RAVI\source\repos\PanelDynamic\PanelDynamic\obj\Debug\PanelDynamic.pdb
