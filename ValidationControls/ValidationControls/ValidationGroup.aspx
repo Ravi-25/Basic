@@ -5,6 +5,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 120px;
+        }
+    </style>
 </head>
 <body>
     <form id="form1" runat="server">
@@ -88,7 +93,7 @@
                     <td>
                         <b>Email</b>
                     </td>
-                    <td>
+                    <td class="auto-style1">
                         <asp:TextBox ID="txtEmail" runat="server" Width="100px">
                         </asp:TextBox>
                         <asp:RequiredFieldValidator ID="RequiredFieldValidatorEmail" 
@@ -112,7 +117,7 @@
                     <td>
                         <b>User Name</b>
                     </td>
-                    <td>
+                    <td class="auto-style1">
                         <asp:TextBox ID="txtUserName" runat="server" Width="100px">
                         </asp:TextBox>
                         <asp:RequiredFieldValidator ID="RequiredFieldValidatorUserName" 
@@ -127,7 +132,7 @@
                     <td>
                         <b>Password</b>
                     </td>
-                    <td>
+                    <td class="auto-style1">
                         <asp:TextBox ID="txtPassword" runat="server" 
                         Width="100px" TextMode="Password"></asp:TextBox>
                         <asp:RequiredFieldValidator ID="RequiredFieldValidatorPassword" 
@@ -142,7 +147,7 @@
                     <td>
                         <b>Confirm Password</b>
                     </td>
-                    <td>
+                    <td class="auto-style1">
                         <asp:TextBox ID="txtConfirmPassword" runat="server" 
                             TextMode="Password" Width="100px"></asp:TextBox>
                         <asp:CompareValidator ID="CompareValidatorPassword" 
