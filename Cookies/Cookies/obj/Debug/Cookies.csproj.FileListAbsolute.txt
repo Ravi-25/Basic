@@ -1,0 +1,9 @@
+C:\Users\RAVI\Documents\Basic\Cookies\Cookies\obj\Debug\Cookies.csprojResolveAssemblyReference.cache
+C:\Users\RAVI\Documents\Basic\Cookies\Cookies\obj\Debug\Cookies.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Documents\Basic\Cookies\Cookies\bin\Cookies.dll.config
+C:\Users\RAVI\Documents\Basic\Cookies\Cookies\bin\Cookies.dll
+C:\Users\RAVI\Documents\Basic\Cookies\Cookies\bin\Cookies.pdb
+C:\Users\RAVI\Documents\Basic\Cookies\Cookies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RAVI\Documents\Basic\Cookies\Cookies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RAVI\Documents\Basic\Cookies\Cookies\obj\Debug\Cookies.dll
+C:\Users\RAVI\Documents\Basic\Cookies\Cookies\obj\Debug\Cookies.pdb
