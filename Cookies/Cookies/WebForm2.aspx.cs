@@ -11,7 +11,7 @@ namespace Cookies
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            HttpCookie Cookie=Request.Cookies["Pageinfo"];
+            HttpCookie Cookie=Request.Cookies["Test"];
 
             if (Cookie != null)
             {
