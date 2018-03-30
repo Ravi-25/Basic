@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Countries>
+  <country>
+    <countryID>100</countryID>
+    <CountryName>India</CountryName>
+    <continent>Asia</continent>
+  </country>
+  <country>
+    <countryID>101</countryID>
+    <CountryName>USA</CountryName>
+    <continent>North America</continent>
+  </country>
+  <country>
+    <countryID>102</countryID>
+    <CountryName>UK</CountryName>
+    <continent>Europe</continent>
+  </country>
+  <country>
+    <countryID>103</countryID>
+    <CountryName>Austraila</CountryName>
+    <continent>Austraila</continent>
+  </country>
+<country>
+    <countryID>104</countryID>
+    <CountryName>Canada</CountryName>
+  <continent>North America</continent>
+  </country>
+</Countries>

@@ -21,3 +21,5 @@ ArrayListConsoleApp/.vs/ArrayListConsoleApp/v15/Server/sqlite3/db.lock
 IcomparableConsoleApp/.vs/IcomparableConsoleApp/v15/Server/sqlite3/db.lock
 RadioButton/.vs/RadioButton/v15/Server/sqlite3/db.lock
 PageNavigation/.vs/PageNavigation/v15/Server/sqlite3/db.lock
+ApplicationState/.vs/ApplicationState/v15/Server/sqlite3/db.lock
+ErrorEvents/.vs/ErrorEvents/v15/Server/sqlite3/db.lock
