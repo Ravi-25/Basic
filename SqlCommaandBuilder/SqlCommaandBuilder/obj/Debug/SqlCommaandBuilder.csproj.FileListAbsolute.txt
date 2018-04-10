@@ -1,0 +1,9 @@
+C:\Users\RAVI\Documents\Basic\SqlCommaandBuilder\SqlCommaandBuilder\obj\Debug\SqlCommaandBuilder.csprojResolveAssemblyReference.cache
+C:\Users\RAVI\Documents\Basic\SqlCommaandBuilder\SqlCommaandBuilder\obj\Debug\SqlCommaandBuilder.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Documents\Basic\SqlCommaandBuilder\SqlCommaandBuilder\bin\SqlCommaandBuilder.dll.config
+C:\Users\RAVI\Documents\Basic\SqlCommaandBuilder\SqlCommaandBuilder\bin\SqlCommaandBuilder.dll
+C:\Users\RAVI\Documents\Basic\SqlCommaandBuilder\SqlCommaandBuilder\bin\SqlCommaandBuilder.pdb
+C:\Users\RAVI\Documents\Basic\SqlCommaandBuilder\SqlCommaandBuilder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RAVI\Documents\Basic\SqlCommaandBuilder\SqlCommaandBuilder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RAVI\Documents\Basic\SqlCommaandBuilder\SqlCommaandBuilder\obj\Debug\SqlCommaandBuilder.dll
+C:\Users\RAVI\Documents\Basic\SqlCommaandBuilder\SqlCommaandBuilder\obj\Debug\SqlCommaandBuilder.pdb

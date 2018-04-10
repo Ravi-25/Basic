@@ -23,3 +23,6 @@ RadioButton/.vs/RadioButton/v15/Server/sqlite3/db.lock
 PageNavigation/.vs/PageNavigation/v15/Server/sqlite3/db.lock
 ApplicationState/.vs/ApplicationState/v15/Server/sqlite3/db.lock
 ErrorEvents/.vs/ErrorEvents/v15/Server/sqlite3/db.lock
+DataSetCache/.vs/DataSetCache/v15/Server/sqlite3/db.lock
+DisconnectedDataAccess/.vs/DisconnectedDataAccess/v15/Server/sqlite3/db.lock
+SqlCommaandBuilder/.vs/SqlCommaandBuilder/v15/Server/sqlite3/db.lock

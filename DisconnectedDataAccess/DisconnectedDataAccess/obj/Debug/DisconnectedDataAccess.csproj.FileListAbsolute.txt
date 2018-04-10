@@ -1,0 +1,9 @@
+C:\Users\RAVI\Documents\Basic\DisconnectedDataAccess\DisconnectedDataAccess\bin\DisconnectedDataAccess.dll.config
+C:\Users\RAVI\Documents\Basic\DisconnectedDataAccess\DisconnectedDataAccess\bin\DisconnectedDataAccess.dll
+C:\Users\RAVI\Documents\Basic\DisconnectedDataAccess\DisconnectedDataAccess\bin\DisconnectedDataAccess.pdb
+C:\Users\RAVI\Documents\Basic\DisconnectedDataAccess\DisconnectedDataAccess\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RAVI\Documents\Basic\DisconnectedDataAccess\DisconnectedDataAccess\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RAVI\Documents\Basic\DisconnectedDataAccess\DisconnectedDataAccess\obj\Debug\DisconnectedDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\RAVI\Documents\Basic\DisconnectedDataAccess\DisconnectedDataAccess\obj\Debug\DisconnectedDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Documents\Basic\DisconnectedDataAccess\DisconnectedDataAccess\obj\Debug\DisconnectedDataAccess.dll
+C:\Users\RAVI\Documents\Basic\DisconnectedDataAccess\DisconnectedDataAccess\obj\Debug\DisconnectedDataAccess.pdb
