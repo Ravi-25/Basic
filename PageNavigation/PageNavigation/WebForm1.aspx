@@ -46,7 +46,7 @@
             <asp:Button ID="Button5" runat="server" Text="Server.Execute External" Font-Bold="true" Width="184px" OnClick="Button5_Click" />
             <br />
             <br />
-            <asp:Button ID="Button6" runat="server" Text="Cross Page Post Bacck" Font-Bold="true" PostBackUrl="~/WebForm2.aspx" />
+            <asp:Button ID="Button6" runat="server" Text="Cross Page Post Back" Font-Bold="true" PostBackUrl="~/WebForm2.aspx" />
             <br />
             <br />
             <input id="Button7" type="button" value="HTML Btn" onclick="OpenNewWindow()"/>

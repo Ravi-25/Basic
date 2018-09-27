@@ -1,0 +1,7 @@
+C:\Users\RAVI\Documents\Basic\ConsoleTristar\ConsoleTristar\bin\Debug\ConsoleTristar.exe.config
+C:\Users\RAVI\Documents\Basic\ConsoleTristar\ConsoleTristar\bin\Debug\ConsoleTristar.exe
+C:\Users\RAVI\Documents\Basic\ConsoleTristar\ConsoleTristar\bin\Debug\ConsoleTristar.pdb
+C:\Users\RAVI\Documents\Basic\ConsoleTristar\ConsoleTristar\obj\Debug\ConsoleTristar.exe
+C:\Users\RAVI\Documents\Basic\ConsoleTristar\ConsoleTristar\obj\Debug\ConsoleTristar.pdb
+C:\Users\RAVI\Documents\Basic\ConsoleTristar\ConsoleTristar\obj\Debug\ConsoleTristar.csprojAssemblyReference.cache
+C:\Users\RAVI\Documents\Basic\ConsoleTristar\ConsoleTristar\obj\Debug\ConsoleTristar.csproj.CoreCompileInputs.cache

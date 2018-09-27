@@ -1,0 +1,7 @@
+C:\Users\RAVI\Documents\Basic\ConsoleStudent\ConsoleStudent\obj\Debug\ConsoleStudent.csprojAssemblyReference.cache
+C:\Users\RAVI\Documents\Basic\ConsoleStudent\ConsoleStudent\obj\Debug\ConsoleStudent.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Documents\Basic\ConsoleStudent\ConsoleStudent\bin\Debug\ConsoleStudent.exe.config
+C:\Users\RAVI\Documents\Basic\ConsoleStudent\ConsoleStudent\bin\Debug\ConsoleStudent.exe
+C:\Users\RAVI\Documents\Basic\ConsoleStudent\ConsoleStudent\bin\Debug\ConsoleStudent.pdb
+C:\Users\RAVI\Documents\Basic\ConsoleStudent\ConsoleStudent\obj\Debug\ConsoleStudent.exe
+C:\Users\RAVI\Documents\Basic\ConsoleStudent\ConsoleStudent\obj\Debug\ConsoleStudent.pdb

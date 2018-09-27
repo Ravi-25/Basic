@@ -15,6 +15,14 @@
     <webopt:bundlereference runat="server" path="~/Content/css" />
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
+    <%--<script type = "text/javascript" >
+function disableBackButton()
+{
+    window.history.forward();
+}
+setTimeout("disableBackButton()", 0);
+</script>--%>
+
 </head>
 <body>
     <form runat="server">
@@ -47,13 +55,16 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" runat="server" href="~/">Application name</a>
+                    <a class="navbar-brand" runat="server" href="~/">Application Name</a>
                 </div>
                 <div class="navbar-collapse collapse">
-                    <ul class="nav navbar-nav">
-                        <li><a runat="server" href="~/">Home</a></li>
-                        <li><a runat="server" href="~/About">About</a></li>
-                        <li><a runat="server" href="~/Contact">Contact</a></li>
+                    <ul class="nav navbar-nav" itemid="Ul">
+                        <li><asp:LinkButton ID="TxtHome" runat="server" PostBackUrl="~/Default.aspx">Home</asp:LinkButton></li>
+                        <li><asp:LinkButton ID="TxtAbt" runat="server" PostBackUrl="~/About.aspx">About</asp:LinkButton></li>
+                        <li><asp:LinkButton ID="TxtCon" runat="server" PostBackUrl="~/Contact.aspx">Contact</asp:LinkButton></li>
+                        <li><asp:LinkButton ID="TxtAud" runat="server"  Visible="false" OnClick="BtnAud_Link_Click">Authorisation</asp:LinkButton></li>
+                        <li><asp:LinkButton ID="TxtLi" runat="server" PostBackUrl="~/Master.aspx">Login</asp:LinkButton></li>
+                        <li><asp:LinkButton ID="TxtLo" runat="server"  Visible="false" OnClick="Btn_Link_Click">Logout</asp:LinkButton></li>
                     </ul>
                 </div>
             </div>

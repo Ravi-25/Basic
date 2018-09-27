@@ -19,7 +19,7 @@
                     </td>
                     <td>
                         <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Enter First Name" ControlToValidate="TxtFname" Font-Bold="True" ForeColor="Red"></asp:RequiredFieldValidator>
-                        <asp:RegularExpressionValidator ID="RegularExpressionValidator2" runat="server" ErrorMessage="Name can have only characters and numbers" ControlToValidate="TxtFName" Font-Bold="True" ForeColor="Red" ValidationExpression="[a-zA-Z0-9]*$"></asp:RegularExpressionValidator>
+                        <asp:RegularExpressionValidator ID="RegularExpressionValidator2" runat="server" ErrorMessage="Name can have only characters and numbers" ControlToValidate="TxtFName" Font-Bold="True" ForeColor="Red" ValidationExpression="[a-zA-Z0-9 ]*$"></asp:RegularExpressionValidator>
                     </td>
                     </tr>
                 <tr>
@@ -31,7 +31,7 @@
                     </td>
                     <td>
                         <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="Enter Last Name" ControlToValidate="TxtLName" Font-Bold="True" ForeColor="Red"></asp:RequiredFieldValidator>
-                        <asp:RegularExpressionValidator ID="RegularExpressionValidator3" runat="server" ErrorMessage="Name can have only characters and numbers" ControlToValidate="TxtLName" Font-Bold="True" ForeColor="Red" ValidationExpression="[a-zA-Z0-9]*$"></asp:RegularExpressionValidator>
+                        <asp:RegularExpressionValidator ID="RegularExpressionValidator3" runat="server" ErrorMessage="Name can have only characters and numbers" ControlToValidate="TxtLName" Font-Bold="True" ForeColor="Red" ValidationExpression="[a-zA-Z0-9 ]*$"></asp:RegularExpressionValidator>
                     </td>
                     </tr>
                 <tr>

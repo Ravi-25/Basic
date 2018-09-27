@@ -1,3 +1,5 @@
+C:\Users\RAVI\Documents\Basic\OnlineLogin\OnlineLogin\obj\Debug\OnlineLogin.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Documents\Basic\OnlineLogin\OnlineLogin\obj\Debug\OnlineLogin.csprojAssemblyReference.cache
 C:\Users\RAVI\Documents\Basic\OnlineLogin\OnlineLogin\bin\ApplicationInsights.config
 C:\Users\RAVI\Documents\Basic\OnlineLogin\OnlineLogin\bin\OnlineLogin.dll.config
 C:\Users\RAVI\Documents\Basic\OnlineLogin\OnlineLogin\bin\OnlineLogin.dll
@@ -31,7 +33,6 @@ C:\Users\RAVI\Documents\Basic\OnlineLogin\OnlineLogin\bin\Microsoft.AI.Dependenc
 C:\Users\RAVI\Documents\Basic\OnlineLogin\OnlineLogin\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\RAVI\Documents\Basic\OnlineLogin\OnlineLogin\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\RAVI\Documents\Basic\OnlineLogin\OnlineLogin\bin\Microsoft.AI.Web.xml
-C:\Users\RAVI\Documents\Basic\OnlineLogin\OnlineLogin\obj\Debug\OnlineLogin.csprojResolveAssemblyReference.cache
-C:\Users\RAVI\Documents\Basic\OnlineLogin\OnlineLogin\obj\Debug\OnlineLogin.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Documents\Basic\OnlineLogin\OnlineLogin\obj\Debug\OnlineLogin.csproj.CopyComplete
 C:\Users\RAVI\Documents\Basic\OnlineLogin\OnlineLogin\obj\Debug\OnlineLogin.dll
 C:\Users\RAVI\Documents\Basic\OnlineLogin\OnlineLogin\obj\Debug\OnlineLogin.pdb
